@@ -1,0 +1,19 @@
+{
+    "name": "ace-ventura/slim-rest",
+    "description": "Building rest api with slim framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "arkady.abramov",
+            "email": "arcady117@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": "^3.0",
+        "php-curl-class/php-curl-class": "^8.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
